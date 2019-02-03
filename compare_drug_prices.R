@@ -31,7 +31,7 @@ mode <- function(x) {
 # .amp_data   <- read.csv(AMP_FP, stringsAsFactors=FALSE)
 # .nadac_data <- read.csv(NADAC_FP, stringsAsFactors=FALSE)
 state_data <- .state_data
-amp_data   <- .amp_data
+# amp_data   <- .amp_data
 nadac_data <- .nadac_data
 
 # Clean state drug utilization data.
