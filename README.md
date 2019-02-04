@@ -17,6 +17,7 @@ Created for the 2019 [Triangle Health Innovation Challenge](http://www.thincweek
 
 ### Merging data
 - Merge the SDUD prices with the NADAC drug descriptions.
+- Sort the dataset.
 
 ## Preliminary data analysis
 
@@ -24,6 +25,6 @@ Created for the 2019 [Triangle Health Innovation Challenge](http://www.thincweek
 - Remove outliers (distance from median ≥ 4σ) that were likely from mis-entered entries.
 - Identify drugs with the largest price differences between states.
 
-## Visualization
+### Visualization
 - Identify the top 5 drugs with the largest interstate price variations: Stelara, Neulasta, Simponi, Avonex, and Lupron Depot.
 - Compare the highest-priced state with the lowest-priced for each drug.
